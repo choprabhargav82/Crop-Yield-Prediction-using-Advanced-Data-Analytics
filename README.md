@@ -2,4 +2,4 @@
 
 This app evaluates the performance of different machine learning algorithms for crop yield analysis and aims to identify the best algorithm for predicting crop yield.
 
-Run 'app.py'
+Run `app.py`
